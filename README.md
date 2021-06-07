@@ -1,4 +1,4 @@
 # firstTimeUse
 This is the first time to use Github
-This is used for rename and sort the banch of files
+This is used to rename and sort a banch of files
 #testTest
